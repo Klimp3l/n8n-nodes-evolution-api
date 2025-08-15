@@ -1,6 +1,6 @@
 # Evolution API Nodes para N8N - Customized
 
-[![npm version](https://badge.fury.io/js/%40klimp3l%2Fn8n-nodes-evolution-api-customized.svg)](https://badge.fury.io/js/%40klimp3l%2Fn8n-nodes-evolution-api-customized)
+[![npm version](https://badge.fury.io/js/%40klimp3l%2Fn8n-nodes-evolution-api.svg)](https://badge.fury.io/js/%40klimp3l%2Fn8n-nodes-evolution-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Versão Customizada** do [n8n-nodes-evolution-api](https://github.com/oriondesign2015/n8n-nodes-evolution-api) com melhorias exclusivas e correções.
@@ -9,17 +9,17 @@
 
 ### **Via NPM (Recomendado)**
 ```bash
-npm install @klimp3l/n8n-nodes-evolution-api-customized
+npm install @klimp3l/n8n-nodes-evolution-api
 ```
 
 ### **Via PNPM**
 ```bash
-pnpm add @klimp3l/n8n-nodes-evolution-api-customized
+pnpm add @klimp3l/n8n-nodes-evolution-api
 ```
 
 ### **Via Yarn**
 ```bash
-yarn add @klimp3l/n8n-nodes-evolution-api-customized
+yarn add @klimp3l/n8n-nodes-evolution-api
 ```
 
 ### **Direto do GitHub**
